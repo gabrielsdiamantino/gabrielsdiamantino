@@ -1,6 +1,6 @@
 # Gabriel Diamantino 👨‍💻
 
-#### ‍🎓- ​​Graduando em Análise e Desenvolvimento de Sistemas
+#### ‍🎓- ​​Graduado em Análise e Desenvolvimento de Sistemas
 #### 📍 - Espirito Santo - Brasil
 <br>
 
