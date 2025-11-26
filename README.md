@@ -11,11 +11,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielsdiamantino&show_icons=true&theme=github_dark&hide_border=false)
-
----
-
 ## 🚀 Tecnologias e Ferramentas  
 
 <div style="display: inline_block"><br>
