@@ -2,6 +2,7 @@
 ### Desenvolvedor Fullstack | Analista de Dados | Engenheiro de Dados  
 
 📚 **Formação:** Análise e Desenvolvimento de Sistemas |  MBA em Gestão de Projetos e Metodologias Ágeis
+
 📍 **Localização:** Espírito Santo – Brasil  
 
 ---
