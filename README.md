@@ -1,7 +1,7 @@
 # Gabriel Diamantino 👨‍💻  
-### Desenvolvedor Fullstack | Aspirante a Engenheiro de Dados  
+### Desenvolvedor Fullstack | Analista de Dados | Engenheiro de Dados  
 
-📚 **Formação:** Análise e Desenvolvimento de Sistemas  
+📚 **Formação:** Análise e Desenvolvimento de Sistemas |  MBA em Gestão de Projetos e Metodologias Ágeis
 📍 **Localização:** Espírito Santo – Brasil  
 
 ---
@@ -30,8 +30,8 @@
 ---
 
 ## ✨ Sobre mim  
-Desenvolvedor Fullstack com experiência em sistemas corporativos, apaixonado por tecnologia, arquitetura de software e, atualmente, migrando para **Engenharia de Dados**.  
-Busco evolução constante através de estudo, projetos e boas práticas de engenharia.
+Desenvolvedor Fullstack com experiência em sistemas corporativos, apaixonado por tecnologia, arquitetura de software e, atualmente, migrando para **Area de Dados**.  
+Busco evolução constante através de estudo, projetos e boas práticas.
 
 Sempre aprendendo. Sempre construindo. 🚀  
 
